@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1727188895 source:c:\users\ufca\desktop\liberada\grande_velha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1727188895 
+
+1727357262 source:/media/ufca/0B48-DD15/grande_velha/main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
